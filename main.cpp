@@ -1,5 +1,5 @@
 #include "normalSelect.hpp"
-#include "maxk.hpp"
+#include "select.hpp"
 #include "MyRandom.hpp"
 
 #include <iostream>    //cin、cout
